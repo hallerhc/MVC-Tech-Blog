@@ -1,0 +1,64 @@
+
+.body {
+    font-size: 24px;
+}
+
+.app-title {
+    font-size: 70px;
+    font-weight: 800;
+}
+
+.form-label {
+    font-size: 24px;
+}
+
+.form-input {
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+    
+
+.nav {
+    padding: 20px;
+    margin: 20px;
+    font-size: 34px;
+}
+
+.link {
+    padding: 20px;
+    font-size: 30px;
+}
+
+.hero {
+    padding: 5%;
+}
+
+.fab {
+    padding: 20px;
+}
+
+.btn {
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 6px 5px;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.login-link {
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 6px 5px;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 10px;
+}
