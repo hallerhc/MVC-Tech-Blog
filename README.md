@@ -15,13 +15,13 @@ This application is a blog that allows users to sign in and post comments. Once 
 ## Installation
 N/A
 
-##Usage
+## Usage
 A basic blog to post and comment on other posts
 
-##Contribution
+## Contribution
 No other contributers on this project
 
-##Link
+## Link
 
 ### Github
 https://github.com/hallerhc/MVC-Tech-Blog
